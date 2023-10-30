@@ -21,19 +21,14 @@ Apply data visualization techniques to identify the patterns of the data.
 Name: Ragavendran A
 
 Reg no:212222230114
-
+```
 python
-
 import seaborn as sns
-
 import pandas as pd
-
 import matplotlib.pyplot as plt
-
 df=sns.load_dataset("tips")
-
 print(df)
-
+```
 <img width="230" alt="image" src="https://github.com/TejaswiniGugananthan/ODD2023-Datascience-Ex-09/assets/121222763/1b3fbb99-9a74-4b53-8ce2-497d3d66105e">
 
 python
