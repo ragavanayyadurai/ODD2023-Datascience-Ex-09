@@ -1,4 +1,4 @@
-# Ex-09-Data-Visualization - 2
+# Ex-09 Data Visualization - 2
 
 ## AIM:
 To Perform Data Visualization on a complex dataset and save the data to a file. 
